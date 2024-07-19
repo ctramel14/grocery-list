@@ -1,0 +1,55 @@
+section {
+  background-color: rgb(233, 233, 219);
+  width: 400px;
+  border: 15px solid rgb(165, 196, 194);
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+  font-size: larger;
+}
+
+main {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    border: 5px saddlebrown dotted;
+}
+
+article {
+  background-color: rgb(243, 243, 241);
+  width: 160px;
+  border: 15px solid rgb(255, 255, 255);
+  padding: 64px;
+  font-size: larger;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+}
+
+.frozen-list {
+  list-style-type: circle;
+}
+
+.breakfast-list {
+  list-style-type: lower-roman;
+}
+
+.cleaning-list {
+  list-style-type: upper-roman;
+}
+
+.laundry-list {
+  list-style-type: decimal-leading-zero;
+}
+
+img {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  padding: 1px;
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+}
